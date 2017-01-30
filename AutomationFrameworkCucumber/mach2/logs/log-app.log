@@ -1,0 +1,74 @@
+2017-01-30 13:14:43 INFO  - SCENARIO: Add List Widget with Engineer Information. MESSAGE: starting scenario.
+2017-01-30 13:14:43 INFO  - STEP: I am login on Mach2 webpage. MESSAGE: Go to Mach2 webpage.
+2017-01-30 13:15:00 INFO  - STEP: I have a board created with a widget. MESSAGE: created board and widget.
+2017-01-30 13:15:50 INFO  - SCENARIO: Add List Widget with Engineer Information. MESSAGE: starting scenario.
+2017-01-30 13:15:50 INFO  - STEP: I am login on Mach2 webpage. MESSAGE: Go to Mach2 webpage.
+2017-01-30 13:16:01 INFO  - STEP: I have a board created with a widget. MESSAGE: created board and widget.
+2017-01-30 13:16:03 INFO  - STEP: I click on Widget button. MESSAGE: Add a Widget.
+2017-01-30 13:16:04 INFO  - STEP: I select Open ERP service. MESSAGE: Select Open ERP service.
+2017-01-30 13:16:04 INFO  - STEP: I select . MESSAGE: Engineer Informationservice of Open ERP.
+2017-01-30 13:16:05 INFO  - STEP: I selectManager with Patricia Villagomez Montalvo. MESSAGE: selectManager with Patricia Villagomez Montalvo.
+2017-01-30 13:16:14 INFO  - STEP: I click on save button. MESSAGE: Click on save button.
+2017-01-30 13:17:23 INFO  - SCENARIO: Add List Widget with Engineer Information. MESSAGE: starting scenario.
+2017-01-30 13:17:23 INFO  - STEP: I am login on Mach2 webpage. MESSAGE: Go to Mach2 webpage.
+2017-01-30 13:17:33 INFO  - STEP: I have a board created with a widget. MESSAGE: created board and widget.
+2017-01-30 13:17:35 INFO  - STEP: I click on Widget button. MESSAGE: Add a Widget.
+2017-01-30 13:17:35 INFO  - STEP: I select Open ERP service. MESSAGE: Select Open ERP service.
+2017-01-30 13:17:36 INFO  - STEP: I select . MESSAGE: Engineer Informationservice of Open ERP.
+2017-01-30 13:17:36 INFO  - STEP: I selectManager with Patricia Villagomez Montalvo. MESSAGE: selectManager with Patricia Villagomez Montalvo.
+2017-01-30 13:17:38 INFO  - STEP: I click on save button. MESSAGE: Click on save button.
+2017-01-30 13:19:04 INFO  - SCENARIO: Add List Widget with Engineer Information. MESSAGE: starting scenario.
+2017-01-30 13:19:04 INFO  - STEP: I am login on Mach2 webpage. MESSAGE: Go to Mach2 webpage.
+2017-01-30 13:19:14 INFO  - STEP: I have a board created with a widget. MESSAGE: created board and widget.
+2017-01-30 13:19:16 INFO  - STEP: I click on Widget button. MESSAGE: Add a Widget.
+2017-01-30 13:19:17 INFO  - STEP: I select Open ERP service. MESSAGE: Select Open ERP service.
+2017-01-30 13:19:17 INFO  - STEP: I select . MESSAGE: Engineer Informationservice of Open ERP.
+2017-01-30 13:19:17 INFO  - STEP: I selectManager with Patricia Villagomez Montalvo. MESSAGE: selectManager with Patricia Villagomez Montalvo.
+2017-01-30 13:19:19 INFO  - STEP: I click on save button. MESSAGE: Click on save button.
+2017-01-30 13:23:38 INFO  - SCENARIO: Add List Widget with Engineer Information. MESSAGE: starting scenario.
+2017-01-30 13:23:39 INFO  - STEP: I am login on Mach2 webpage. MESSAGE: Go to Mach2 webpage.
+2017-01-30 13:23:46 INFO  - STEP: I have a board created with a widget. MESSAGE: created board and widget.
+2017-01-30 13:23:48 INFO  - STEP: I click on Widget button. MESSAGE: Add a Widget.
+2017-01-30 13:23:48 INFO  - STEP: I select Open ERP service. MESSAGE: Select Open ERP service.
+2017-01-30 13:23:49 INFO  - STEP: I select . MESSAGE: Engineer Informationservice of Open ERP.
+2017-01-30 13:23:49 INFO  - STEP: I selectManager with Patricia Villagomez Montalvo. MESSAGE: selectManager with Patricia Villagomez Montalvo.
+2017-01-30 13:23:51 INFO  - STEP: I click on save button. MESSAGE: Click on save button.
+2017-01-30 13:24:19 INFO  - SCENARIO: Add List Widget with Engineer Information. MESSAGE: starting scenario.
+2017-01-30 13:24:19 INFO  - STEP: I am login on Mach2 webpage. MESSAGE: Go to Mach2 webpage.
+2017-01-30 13:24:30 INFO  - STEP: I have a board created with a widget. MESSAGE: created board and widget.
+2017-01-30 13:24:32 INFO  - STEP: I click on Widget button. MESSAGE: Add a Widget.
+2017-01-30 13:24:33 INFO  - STEP: I select Open ERP service. MESSAGE: Select Open ERP service.
+2017-01-30 13:24:33 INFO  - STEP: I select . MESSAGE: Engineer Informationservice of Open ERP.
+2017-01-30 13:24:33 INFO  - STEP: I selectManager with Patricia Villagomez Montalvo. MESSAGE: selectManager with Patricia Villagomez Montalvo.
+2017-01-30 13:24:35 INFO  - STEP: I click on save button. MESSAGE: Click on save button.
+2017-01-30 13:24:36 INFO  - STEP: Verification on Mach2 and Open ERP. MESSAGE: Verification of datas.
+2017-01-30 13:24:44 INFO  - CLEAN: Delete Widget and Board Mach2. MESSAGE: Clean up: Delete Mach2.
+2017-01-30 13:24:44 INFO  - CLEAN: Logout Mach2. MESSAGE: Clean up: Logout.
+2017-01-30 13:25:02 INFO  - VERIFICATION: Verification on Mach2 and Open ERP. MESSAGE: Verification of Mach2 with OpenERP.
+2017-01-30 13:25:02 INFO  - CLEAN: Logout OpenERP. MESSAGE: Clean up: Logout.
+2017-01-30 13:26:16 INFO  - SCENARIO: Add List Widget with Engineer Information. MESSAGE: starting scenario.
+2017-01-30 13:26:16 INFO  - STEP: I am login on Mach2 webpage. MESSAGE: Go to Mach2 webpage.
+2017-01-30 13:26:24 INFO  - STEP: I have a board created with a widget. MESSAGE: created board and widget.
+2017-01-30 13:26:27 INFO  - STEP: I click on Widget button. MESSAGE: Add a Widget.
+2017-01-30 13:26:27 INFO  - STEP: I select Open ERP service. MESSAGE: Select Open ERP service.
+2017-01-30 13:26:28 INFO  - STEP: I select . MESSAGE: Engineer Informationservice of Open ERP.
+2017-01-30 13:26:28 INFO  - STEP: I selectManager with Patricia Villagomez Montalvo. MESSAGE: selectManager with Patricia Villagomez Montalvo.
+2017-01-30 13:26:30 INFO  - STEP: I click on save button. MESSAGE: Click on save button.
+2017-01-30 13:26:30 INFO  - STEP: Verification on Mach2 and Open ERP. MESSAGE: Verification of datas.
+2017-01-30 13:26:33 INFO  - CLEAN: Delete Widget and Board Mach2. MESSAGE: Clean up: Delete Mach2.
+2017-01-30 13:26:34 INFO  - CLEAN: Logout Mach2. MESSAGE: Clean up: Logout.
+2017-01-30 13:26:49 INFO  - VERIFICATION: Verification on Mach2 and Open ERP. MESSAGE: Verification of Mach2 with OpenERP.
+2017-01-30 13:26:49 INFO  - CLEAN: Logout OpenERP. MESSAGE: Clean up: Logout.
+2017-01-30 13:41:04 INFO  - SCENARIO: Add List Widget with Engineer Information. MESSAGE: starting scenario.
+2017-01-30 13:41:05 INFO  - STEP: I am login on Mach2 webpage. MESSAGE: Go to Mach2 webpage.
+2017-01-30 13:41:15 INFO  - STEP: I have a board created with a widget. MESSAGE: created board and widget.
+2017-01-30 13:41:17 INFO  - STEP: I click on Widget button. MESSAGE: Add a Widget.
+2017-01-30 13:41:18 INFO  - STEP: I select Open ERP service. MESSAGE: Select Open ERP service.
+2017-01-30 13:41:18 INFO  - STEP: I select . MESSAGE: Engineer Informationservice of Open ERP.
+2017-01-30 13:41:19 INFO  - STEP: I selectManager with Patricia Villagomez Montalvo. MESSAGE: selectManager with Patricia Villagomez Montalvo.
+2017-01-30 13:41:21 INFO  - STEP: I click on save button. MESSAGE: Click on save button.
+2017-01-30 13:41:21 INFO  - STEP: Verification on Mach2 and Open ERP. MESSAGE: Verification of datas.
+2017-01-30 13:41:24 INFO  - CLEAN: Delete Widget and Board Mach2. MESSAGE: Clean up: Delete Mach2.
+2017-01-30 13:41:24 INFO  - CLEAN: Logout Mach2. MESSAGE: Clean up: Logout.
+2017-01-30 13:41:44 INFO  - VERIFICATION: Verification on Mach2 and Open ERP. MESSAGE: Verification of Mach2 with OpenERP.
+2017-01-30 13:41:44 INFO  - CLEAN: Logout OpenERP. MESSAGE: Clean up: Logout.
